@@ -1,3 +1,7 @@
+We forked this because we wanted to suppress the xcodebuild warnings: https://github.skyscannertools.net/apps-enablement/xcpretty/commit/6615f29aed829ed3db1547f4fddacffc409a8a05
+
+This is not yet merged into the master branch: https://github.com/xcpretty/xcpretty/pull/345/files
+
 ![logo](http://i.imgur.com/i2fElxx.png)
 
 __`xcpretty` is a fast and flexible formatter for `xcodebuild`__.<br/>
