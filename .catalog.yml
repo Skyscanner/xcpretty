@@ -1,0 +1,20 @@
+---
+version: '1'
+type: tooling
+extras:
+  tags:
+    - internal-only
+ 
+component:
+  name: xcpretty
+  owner: Anvil
+  description: Xcodebuild output formatter (fork)
+  personalDataHandling: none
+  soxScope: False
+  paymentProcessing: False
+  outOfHoursSupportRequired: False
+  serviceClass: economy-class
+  supportOverride:
+    slackChannel: "#apps-enablement"
+    jiraProject: ANVIL
+    confluenceUrl: "https://confluence.skyscannertools.net/x/gJnX"
