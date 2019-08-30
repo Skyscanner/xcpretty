@@ -1,3 +1,5 @@
+Fork is created because the main repo is not updated any more. We cherry-picked some fixes.
+
 ![logo](http://i.imgur.com/i2fElxx.png)
 
 __`xcpretty` is a fast and flexible formatter for `xcodebuild`__.<br/>
